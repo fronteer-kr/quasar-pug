@@ -1,2 +1,3 @@
 # quasar-pug
-Quasar + Pug +Scss
+
+Quasar + Pug +Scss Template
