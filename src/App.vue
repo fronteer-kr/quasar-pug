@@ -1,11 +1,7 @@
-<template>
-  <router-view />
+<template lang="pug">
+router-view
 </template>
 
-<script>
-import { defineComponent } from 'vue'
+<script setup></script>
 
-export default defineComponent({
-  name: 'App'
-})
-</script>
+<style lang="scss" scoped></style>
